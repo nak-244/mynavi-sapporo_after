@@ -7,8 +7,8 @@
 ※数字は公開・非公開問わず
 
 ### LINEアカウント
-* 札幌支店 @opl-s
+札幌支店 @opl-s  
 ![札幌支店_Lサイズ](https://user-images.githubusercontent.com/45871453/64159747-a7030800-ce75-11e9-9bfc-d37c09c79d75.png)
 
-* CRM札幌支店 @opl-c
+CRM札幌支店 @opl-c  
 ![CRM札幌支店_Lサイズ](https://user-images.githubusercontent.com/45871453/64159705-99e61900-ce75-11e9-9d8d-67e9fbb58b9b.png)
