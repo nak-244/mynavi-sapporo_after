@@ -175,3 +175,8 @@
      padding-right:0;
      padding-left:0;
  }
+
+ .tel-number a {
+     color:#ffffff;
+     text-decoration:none;
+     }
